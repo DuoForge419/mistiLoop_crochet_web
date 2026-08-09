@@ -8,6 +8,7 @@ public class MistiLoopWebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MistiLoopWebApplication.class, args);
+		SpringApplication.run(MistiLoopWebApplication.class, args);
 	}
 
 }
